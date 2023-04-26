@@ -1,1 +1,227 @@
+<p>
 
+HTML Text Tags
+
+Paragraph
+
+<h1>
+
+HTML Text Tags
+
+Heading 1
+
+<h2>
+
+HTML Text Tags
+
+Heading 2
+
+<h3>
+
+HTML Text Tags
+
+Heading 3
+
+<h4>
+
+HTML Text Tags
+
+Heading 4
+
+<h5>
+
+HTML Text Tags
+
+Heading 5
+
+<h6>
+
+HTML Text Tags
+
+Heading 6
+
+<strong>
+
+HTML Text Tags
+
+Strong
+
+<em>
+
+HTML Text Tags
+
+Emphasis
+
+<abbr>
+
+HTML Text Tags
+
+Abbreviation
+
+<address>
+
+HTML Text Tags
+
+Contact Information
+
+<bdo>
+
+HTML Text Tags
+
+Override The Current Text Direction
+
+<blockquote>
+
+HTML Text Tags
+
+Content From Another Source
+
+<cite>
+
+HTML Text Tags
+
+Title Of The Work, Book, Website
+
+<q>
+
+HTML Text Tags
+
+Inline Quotation
+
+<code>
+
+HTML Text Tags
+
+Display A Part Of Programming Code
+
+<ins>
+
+HTML Text Tags
+
+Text Inserted
+
+<del>
+
+HTML Text Tags
+
+Text Deleted From The Document
+
+<dfn>
+
+HTML Text Tags
+
+Term Defined Within A Sentence/Phrase
+
+<kbd>
+
+HTML Text Tags
+
+Keyboard Input
+
+<pre>
+
+HTML Text Tags
+
+Preformatted Text
+
+<samp>
+
+HTML Text Tags
+
+Sample Output Of A Computer Program
+
+<var>
+
+HTML Text Tags
+
+Variable Name Used In Mathematical Or Programming Context
+
+<br>
+
+HTML Text Tags
+
+Single Line Break
+
+<div>
+
+HTML Text Tags
+
+Division
+
+<a>
+
+HTML Link Tags
+
+Anchor Tag For A Link
+
+<base>
+
+HTML Link Tags
+
+Base Url For All Relative Url Within The Document
+
+<img>
+
+HTML Image And Object Tags
+
+Image
+
+<area>
+
+HTML Image And Object Tags
+
+Area Of An Image Map
+
+<map>
+
+HTML Image And Object Tags
+
+Image Map
+
+<param>
+
+HTML Image And Object Tags
+
+Parameter For An <Object> Element
+
+<object>
+
+HTML Image And Object Tags
+
+Embed An Object
+
+<ul>
+
+HTML List Tags
+
+Unordered List
+
+<ol>
+
+HTML List Tags
+
+Ordered List
+
+<li>
+
+HTML List Tags
+
+List
+
+<dl>
+
+HTML List Tags
+
+Description List
+
+<dt>
+
+HTML List Tags
+
+Term In Description List
+
+<dd>
+
+HTML List Tags
+
+Definition/Description Of A Term In Description List
