@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section class="login" id="login">
+            <div class="head">
+                <h1 class="company_name">Danu Arts</h1>
+            </div>
+            <p class="msg">Welcome Back</p>
+            <div class="form">
+                <input type="email" placeholder="Enter your Email" class="text" id="username" required > 
+                <br>  
+                <input type="password" placeholder="Enter your password" class="password" id="password" required ><br>
+                <a href="#" class="btn_login" id="do_login" onclick="myfuction()">Login</a>
+                <a href="#" class='forgot'>Forgot? password</a>
+                
+                </div>
+        </section>
+        <script>
+            function myfuction(){
+                 let email=document.getElementById("username").value;
+                 let passworsd=document.getElementById("password").value;
+                 
+                if(email==naikdanesh2 && passworsd==danunaik){
+                    window.alert("yes you did it")
+                }
+            }
+        </script>
+    </body>
+</html>
